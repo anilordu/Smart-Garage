@@ -1,0 +1,37 @@
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\Akıllı Garaj Proje.exe
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\Akıllı Garaj Proje.deps.json
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\Akıllı Garaj Proje.runtimeconfig.json
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\Akıllı Garaj Proje.dll
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\Akıllı Garaj Proje.pdb
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.csproj.AssemblyReference.cache
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı_Garaj_Proje.Form1.resources
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.csproj.GenerateResource.cache
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.AssemblyInfoInputs.cache
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.AssemblyInfo.cs
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.csproj.CoreCompileInputs.cache
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı G.88CE6185.Up2Date
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.dll
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\refint\Akıllı Garaj Proje.dll
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.pdb
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\Akıllı Garaj Proje.genruntimeconfig.cache
+C:\Users\anil_\Desktop\Akıllı Garaj Proje\Akıllı Garaj Proje\obj\Debug\net8.0-windows\ref\Akıllı Garaj Proje.dll
